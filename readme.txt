@@ -1,4 +1,4 @@
-readme for DFSMazeGeneratorAndSolver
+#readme for DFSMazeGeneratorAndSolver
 
 
 **ABOUT**
